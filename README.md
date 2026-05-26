@@ -1,7 +1,8 @@
 # UUM CGPA Calculator
 
 A sleek CGPA calculator built for Universiti Utara Malaysia students, using the UUM grading system.
-Website live at : uum-cgpa-calculator.vercel.app 
+---
+Live demo : (uum-cgpa-calculator.vercel.app)
 
 ## Features
 - Add multiple semesters and subjects
